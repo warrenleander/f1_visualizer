@@ -29,7 +29,7 @@ Before running this script, ensure you have the following libraries installed:
    - `session`: The session type ('Q' for qualifying, 'R' for race, 'FP1', 'FP2', or 'FP3' for practice sessions)
 
 2. Run the script:
-python formula_one_analysis.py
+python formula_one.py
 
 3. The script will generate several plots and print the top 3 results for the specified session.
 
